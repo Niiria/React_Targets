@@ -1,0 +1,68 @@
+{
+  "targets": [
+    {
+      "id": 0,
+      "name": "Layea the Ghost",
+      "price": 1500000,
+      "image": "https://cdn.pixabay.com/photo/2019/10/05/14/31/eye-4528085_960_720.jpg",
+      "location": {
+        "geo": "Lost House",
+        "match": 1313,
+        "levels": [1, 2, 3]
+      },
+      "types": ["Dark", "Blue", "Grey"],
+      "stats": [
+        { "amount": 11, "factor": 11, "description": "Dexterity" },
+        { "amount": 2, "factor": 12, "description": "Strength" }
+      ]
+    },
+    {
+      "id": 1,
+      "name": "Owl the Inteligence",
+      "price": 1420000,
+      "image": "https://cdn.pixabay.com/photo/2019/09/30/20/53/owl-4516716_960_720.jpg",
+      "location": {
+        "geo": "Lost Forest",
+        "match": 1313,
+        "levels": [1, 2, 3]
+      },
+      "types": ["Dark", "Blue", "Grey"],
+      "stats": [
+        { "amount": 11, "factor": 11, "description": "Dexterity" },
+        { "amount": 2, "factor": 12, "description": "Strength" }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Anabele the Lady",
+      "price": 2222222,
+      "image": "https://cdn.pixabay.com/photo/2017/10/27/00/53/ghost-2892905_960_720.jpg",
+      "location": {
+        "geo": "Mansion of Beauty",
+        "match": 1313,
+        "levels": [1, 2, 3]
+      },
+      "types": ["Dark", "Blue", "Grey"],
+      "stats": [
+        { "amount": 11, "factor": 11, "description": "Dexterity" },
+        { "amount": 2, "factor": 12, "description": "Strength" }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Centaur the Mythical Horse",
+      "price": 33333333,
+      "image": "https://cdn.pixabay.com/photo/2019/12/17/01/15/centaur-4700525_960_720.jpg",
+      "location": {
+        "geo": "Lost Forest",
+        "match": 1313,
+        "levels": [1, 2, 3]
+      },
+      "types": ["Dark", "Blue", "Grey"],
+      "stats": [
+        { "amount": 11, "factor": 11, "description": "Dexterity" },
+        { "amount": 2, "factor": 12, "description": "Strength" }
+      ]
+    }
+  ]
+}
